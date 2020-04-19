@@ -1,0 +1,64 @@
+#calculator{
+  background: #EEEEEE;
+  
+  height: 500px;
+  width: 400px;
+  margin: 100px auto;
+  
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px; 
+  
+}
+
+#disp{
+  background: ;
+  
+  height: 100px;
+  width:  300px; 
+  margin: 15px auto;
+  
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  
+    
+}
+
+h4{
+  height:40px;
+}
+
+
+
+
+#layout{
+  background: black;
+  height: 350px;
+  margin: 25px auto;
+}
+
+#clear{
+  
+}
+
+#divide,#multiply,#subtract,#add{
+  
+}
+
+#zero{
+  
+}
+
+#one,#two,#three,#four,#five,#six,#seven,#eight,#nine{
+  
+}
+#equals{
+  
+}
+
+#decimal{
+  
+}
